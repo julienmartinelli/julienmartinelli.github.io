@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>A Statistical Unsupervised Learning Algorithm for Inferring Reaction Networks from Time Series Data</title>
+      <link>/publication/mgsf-19-icmlcb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mgsf-19-icmlcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Inferring Reactions from Data Time Series by a Statistical Learning Greedy Heuristics</title>
+      <link>/publication/mgsf-19-cmsb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mgsf-19-cmsb/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
