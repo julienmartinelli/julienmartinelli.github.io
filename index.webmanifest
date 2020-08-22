@@ -2,8 +2,8 @@
   "name": "Julien Martinelli",
   "short_name": "Julien Martinelli",
   "lang": "en-us",
-  "theme_color": "rgb(172, 80, 215)",
-  "background_color": "rgb(172, 80, 215)",
+  "theme_color": "rgb(142, 68, 173)",
+  "background_color": "rgb(142, 68, 173)",
   "icons": [{
     "src": "/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
