@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>François Fages | Julien Martinelli</title>
-    <link>/author/francois-fages/</link>
-      <atom:link href="/author/francois-fages/index.xml" rel="self" type="application/rss+xml" />
-    <description>François Fages</description>
+    <title>Francis Lévi | Julien Martinelli</title>
+    <link>/author/francis-levi/</link>
+      <atom:link href="/author/francis-levi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francis Lévi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
-      <title>François Fages</title>
-      <link>/author/francois-fages/</link>
+      <title>Francis Lévi</title>
+      <link>/author/francis-levi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/mb-21-eccb/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/mb-21-eccb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Statistical Unsupervised Learning Algorithm for Inferring Reaction Networks from Time Series Data</title>
-      <link>/publication/mgsf-19-icmlcb/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mgsf-19-icmlcb/</guid>
       <description></description>
     </item>
     

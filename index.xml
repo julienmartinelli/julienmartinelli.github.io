@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Julien Martinelli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 21:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
       <title>Julien Martinelli</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
+      <link>/talk/bioss_april_21/</link>
+      <pubDate>Fri, 16 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>/talk/bioss_april_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Learning Algorithm for Inferring Reaction Systems from Time Series Data</title>
+      <link>/talk/ai4health_january_21/</link>
+      <pubDate>Thu, 01 Apr 2021 17:00:00 +0000</pubDate>
+      <guid>/talk/ai4health_january_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Learning to Identify Systemic Regulators of the Peripheral Circadian Clock</title>
+      <link>/publication/mb-21-eccb/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mb-21-eccb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Statistical Learning Algorithm for Inferring Reaction Systems from Time Series Data</title>
