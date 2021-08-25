@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Julien Martinelli</title>
+    <title>Talks &amp; poster sessions | Julien Martinelli</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Talks &amp; poster sessions</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Aug 2021 11:45:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks &amp; poster sessions</title>
       <link>/talk/</link>
     </image>
     
