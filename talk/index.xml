@@ -5,12 +5,36 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 May 2021 16:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jul 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
+      <link>/talk/eccb_july_21/</link>
+      <pubDate>Wed, 28 Jul 2021 15:00:00 +0000</pubDate>
+      <guid>/talk/eccb_july_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
+      <link>/talk/jobim_july_21/</link>
+      <pubDate>Tue, 06 Jul 2021 15:30:00 +0000</pubDate>
+      <guid>/talk/jobim_july_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification de régulateurs systémiques de l’horloge périphérique circadienne par apprentissage de modèles</title>
+      <link>/talk/smai_june_21/</link>
+      <pubDate>Mon, 21 Jun 2021 17:00:00 +0000</pubDate>
+      <guid>/talk/smai_june_21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
@@ -58,6 +82,59 @@
       <pubDate>Wed, 19 Dec 2018 16:00:00 +0000</pubDate>
       <guid>/talk/bioss_december_18/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/cemracs_august_21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/cemracs_august_21/</guid>
+      <description>&lt;p&gt;title: Metamodeling for metabolic models: application to a PDE model of Salmonella infection
+event: CEMRACS 2021
+event_url: &lt;a href=&#34;http://smai.emath.fr/cemracs/cemracs21/index.html&#34;&gt;http://smai.emath.fr/cemracs/cemracs21/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;location: Remote
+#address:&lt;/p&gt;
+&lt;h1 id=&#34;street-campus-universitaire-la-source&#34;&gt;street: Campus Universitaire, La Source&lt;/h1&gt;
+&lt;h1 id=&#34;city-orléans&#34;&gt;city: Orléans&lt;/h1&gt;
+&lt;h1 id=&#34;postcode-45067&#34;&gt;postcode: &amp;lsquo;45067&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;country-france&#34;&gt;country: France&lt;/h1&gt;
+&lt;h1 id=&#34;summary-an-example-talk-using-academics-markdown-slides-feature&#34;&gt;summary: An example talk using Academic&amp;rsquo;s Markdown slides feature.&lt;/h1&gt;
+&lt;h1 id=&#34;talk-start-and-end-times&#34;&gt;Talk start and end times.&lt;/h1&gt;
+&lt;h1 id=&#34;end-time-can-optionally-be-hidden-by-prefixing-the-line-with-&#34;&gt;End time can optionally be hidden by prefixing the line with &lt;code&gt;#&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;date: &amp;ldquo;2021-08-24T11:45:00Z&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;date_end-2019-05-27t170000z&#34;&gt;date_end: &amp;ldquo;2019-05-27T17:00:00Z&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;all_day: false&lt;/p&gt;
+&lt;h1 id=&#34;schedule-page-publish-date-not-talk-date&#34;&gt;Schedule page publish date (NOT talk date).&lt;/h1&gt;
+&lt;h1 id=&#34;publishdate-2017-01-01t000000z&#34;&gt;publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;authors: []
+tags: []&lt;/p&gt;
+&lt;h1 id=&#34;is-this-a-featured-talk-truefalse&#34;&gt;Is this a featured talk? (true/false)&lt;/h1&gt;
+&lt;p&gt;featured: false&lt;/p&gt;
+&lt;p&gt;#image:&lt;/p&gt;
+&lt;h1 id=&#34;caption-image-credit-unsplashhttpsunsplashcomphotosbzdhc5b3bxs&#34;&gt;caption: &amp;lsquo;Image credit: 
+&lt;a href=&#34;https://unsplash.com/photos/bzdhc5b3Bxs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;&lt;/h1&gt;
+&lt;h1 id=&#34;focal_point-right&#34;&gt;focal_point: Right&lt;/h1&gt;
+&lt;p&gt;links:
+url_code: &amp;quot;&amp;rdquo;
+url_pdf: &amp;quot;&amp;rdquo;
+url_slides: &amp;ldquo;files/cemracs_2021.pdf&amp;rdquo;
+url_video: &amp;quot;&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;markdown-slides-optional&#34;&gt;Markdown Slides (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-talk-with-markdown-slides&#34;&gt;Associate this talk with Markdown slides.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-slides--example-slides-references-contentslidesexample-slidesmd&#34;&gt;E.g. &lt;code&gt;slides = &amp;quot;example-slides&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example-slides.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-slides--&#34;&gt;Otherwise, set &lt;code&gt;slides = &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;slides-example&#34;&gt;slides: example&lt;/h1&gt;
+&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;projects&#34;&gt;projects:&lt;/h1&gt;
+&lt;p&gt;#- internal-project&lt;/p&gt;
+&lt;h1 id=&#34;enable-math-on-this-page&#34;&gt;Enable math on this page?&lt;/h1&gt;
+&lt;h2 id=&#34;math-true&#34;&gt;math: true&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
