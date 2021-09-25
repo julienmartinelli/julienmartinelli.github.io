@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ouda Aboumanify | Julien Martinelli</title>
+    <link>/author/ouda-aboumanify/</link>
+      <atom:link href="/author/ouda-aboumanify/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ouda Aboumanify</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
+      <title>Ouda Aboumanify</title>
+      <link>/author/ouda-aboumanify/</link>
+    </image>
+    
+    <item>
+      <title>A mathematical model of the circadian clock and drug pharmacology to optimize irinotecan administration timing in colorectal cancer</title>
+      <link>/publication/hm-21-csbj/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hm-21-csbj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
