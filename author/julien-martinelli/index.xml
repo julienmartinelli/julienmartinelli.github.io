@@ -5,12 +5,44 @@
     <link>/author/julien-martinelli/</link>
       <atom:link href="/author/julien-martinelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Julien Martinelli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
       <title>Julien Martinelli</title>
       <link>/author/julien-martinelli/</link>
     </image>
+    
+    <item>
+      <title>A mathematical model of the circadian clock and drug pharmacology to optimize irinotecan administration timing in colorectal cancer</title>
+      <link>/publication/hm-21-csbj/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hm-21-csbj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Learning to Identify Systemic Regulators of the Peripheral Circadian Clock</title>
+      <link>/publication/mb-21-eccb/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mb-21-eccb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Unsupervised Learning Algorithm for Inferring Reaction Networks from Time Series Data</title>
+      <link>/publication/mgsf-19-icmlcb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mgsf-19-icmlcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Inferring Reactions from Data Time Series by a Statistical Learning Greedy Heuristics</title>
+      <link>/publication/mgsf-19-cmsb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mgsf-19-cmsb/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
