@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; poster sessions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Aug 2021 11:45:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_2.png</url>
       <title>Talks &amp; poster sessions</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>On learning mechanistic models from time series data with applications to cancer chronotherapies</title>
+      <link>/talk/defense_feb_18/</link>
+      <pubDate>Fri, 18 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>/talk/defense_feb_18/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Metamodeling for metabolic models, application to a PDE model of Salmonella infection</title>
@@ -22,33 +30,9 @@
     
     <item>
       <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
-      <link>/talk/eccb_july_21/</link>
-      <pubDate>Wed, 28 Jul 2021 15:00:00 +0000</pubDate>
-      <guid>/talk/eccb_july_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
       <link>/talk/jobim_july_21/</link>
       <pubDate>Tue, 06 Jul 2021 15:30:00 +0000</pubDate>
       <guid>/talk/jobim_july_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification de régulateurs systémiques de l’horloge périphérique circadienne par apprentissage de modèles</title>
-      <link>/talk/smai_june_21/</link>
-      <pubDate>Mon, 21 Jun 2021 17:00:00 +0000</pubDate>
-      <guid>/talk/smai_june_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
-      <link>/talk/mhpb_may_21/</link>
-      <pubDate>Mon, 17 May 2021 16:30:00 +0000</pubDate>
-      <guid>/talk/mhpb_may_21/</guid>
       <description></description>
     </item>
     
@@ -65,14 +49,6 @@
       <link>/talk/ai4health_january_21/</link>
       <pubDate>Mon, 04 Jan 2021 17:00:00 +0000</pubDate>
       <guid>/talk/ai4health_january_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Statistical Learning Algorithm for Inferring Reaction Systems from Time Series Data</title>
-      <link>/talk/bioregul_june_19/</link>
-      <pubDate>Mon, 24 Jun 2019 21:00:00 +0000</pubDate>
-      <guid>/talk/bioregul_june_19/</guid>
       <description></description>
     </item>
     
