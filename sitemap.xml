@@ -1,171 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
     <lastmod>2022-02-18T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/defense_feb_18/</loc>
     <lastmod>2022-02-18T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2022-02-18T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/cemracs_august_21/</loc>
     <lastmod>2021-08-24T11:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/jobim_july_21/</loc>
     <lastmod>2021-07-06T15:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/bioss_april_21/</loc>
     <lastmod>2021-04-16T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/ai4health_january_21/</loc>
     <lastmod>2021-01-04T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/hm-21-csbj/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/and-annabelle-ballesta/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/angela-relogio/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/annabelle-ballesta/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/francis-levi/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/francois-fages/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/janina-hesse/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/julien-martinelli/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/mb-21-eccb/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ouda-aboumanify/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sandrine-dulong/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sylvain-soliman/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xiao-mei-li/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/bioss_may_19/</loc>
     <lastmod>2019-05-27T16:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/mgsf-19-icmlcb/</loc>
     <lastmod>2020-08-22T16:08:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/and-francois-fages/</loc>
     <lastmod>2020-08-22T16:08:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jeremy-grignard/</loc>
     <lastmod>2020-08-22T16:08:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/mgsf-19-cmsb/</loc>
     <lastmod>2020-08-22T16:08:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/bioss_december_18/</loc>
     <lastmod>2018-12-19T16:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/julien-martinelli/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
