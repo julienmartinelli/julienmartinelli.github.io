@@ -5,20 +5,17 @@
     <link>/author/julien-martinelli/</link>
       <atom:link href="/author/julien-martinelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Julien Martinelli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_3.png</url>
       <title>Julien Martinelli</title>
       <link>/author/julien-martinelli/</link>
     </image>
     
-    <item>
-      <title>Accelerating metabolic models evaluation with statistical metamodels - application to Salmonella infection models</title>
-      <link>/publication/cemracs-22-esaim/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/cemracs-22-esaim/</guid>
-      <description></description>
-    </item>
+  </channel>
+</rss>
+lien-martinelli/</link>
+    </image>
     
     <item>
       <title>A mathematical model of the circadian clock and drug pharmacology to optimize irinotecan administration timing in colorectal cancer</title>
@@ -49,6 +46,14 @@
       <link>/publication/mgsf-19-cmsb/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/mgsf-19-cmsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating metabolic models evaluation with statistical metamodels - application to Salmonella infection models</title>
+      <link>/publication/cemracs-22-esaim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/cemracs-22-esaim/</guid>
       <description></description>
     </item>
     
