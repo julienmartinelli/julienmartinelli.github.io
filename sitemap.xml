@@ -3,12 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/and-annabelle-ballesta/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/julien-martinelli/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/louis-filstroff/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/mmfk-22-aistats/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/petrus-mikkola/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/samuel-kaski/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/annabelle-ballesta/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/francois-fages/</loc>
@@ -17,23 +41,35 @@
     <loc>/author/jeremy-grignard/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/julien-martinelli/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/mgsfb-22-bioinformatics/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/sylvain-soliman/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/cemracs-22-esaim/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/clemence-frioux/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/david-sherman/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/marie-luce-taupin/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/pablo-ugalde-salas/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/simon-labarthe/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/sylvie-huet/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/thibault-malou/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/defense_feb_18/</loc>
     <lastmod>2022-02-18T14:00:00+00:00</lastmod>
@@ -56,10 +92,10 @@
     <loc>/publication/hm-21-csbj/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/angela-relogio/</loc>
+    <loc>/author/and-annabelle-ballesta/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/annabelle-ballesta/</loc>
+    <loc>/author/angela-relogio/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/francis-levi/</loc>
@@ -95,28 +131,12 @@
     <loc>/talk/bioss_december_18/</loc>
     <lastmod>2018-12-19T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/cemracs-22-esaim/</loc>
-  </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/author/clemence-frioux/</loc>
-  </url><url>
-    <loc>/author/david-sherman/</loc>
   </url><url>
     <loc>/author/julien-martinelli/</loc>
   </url><url>
-    <loc>/author/marie-luce-taupin/</loc>
-  </url><url>
-    <loc>/author/pablo-ugalde-salas/</loc>
-  </url><url>
     <loc>/post/</loc>
   </url><url>
-    <loc>/author/simon-labarthe/</loc>
-  </url><url>
-    <loc>/author/sylvie-huet/</loc>
-  </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/author/thibault-malou/</loc>
   </url>
 </urlset>

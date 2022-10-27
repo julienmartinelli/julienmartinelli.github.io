@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</title>
+      <link>/publication/mmfk-22-aistats/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/mmfk-22-aistats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reactmine, a search algorithm for inferring chemical reaction networks from time series data</title>
       <link>/publication/mgsfb-22-bioinformatics/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/mgsfb-22-bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating metabolic models evaluation with statistical metamodels - application to Salmonella infection models</title>
+      <link>/publication/cemracs-22-esaim/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/cemracs-22-esaim/</guid>
       <description></description>
     </item>
     
@@ -49,14 +65,6 @@
       <link>/publication/mgsf-19-cmsb/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/mgsf-19-cmsb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerating metabolic models evaluation with statistical metamodels - application to Salmonella infection models</title>
-      <link>/publication/cemracs-22-esaim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/cemracs-22-esaim/</guid>
       <description></description>
     </item>
     
