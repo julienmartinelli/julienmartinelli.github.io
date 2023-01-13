@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; poster sessions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Feb 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_3.png</url>
       <title>Talks &amp; poster sessions</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</title>
+      <link>/talk/aiday_nov_22/</link>
+      <pubDate>Wed, 16 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>/talk/aiday_nov_22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On learning mechanistic models from time series data with applications to cancer chronotherapies</title>
@@ -30,33 +38,9 @@
     
     <item>
       <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
-      <link>/talk/jobim_july_21/</link>
-      <pubDate>Tue, 06 Jul 2021 15:30:00 +0000</pubDate>
-      <guid>/talk/jobim_july_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model learning to identify systemic regulators of the peripheral circadian clock</title>
       <link>/talk/bioss_april_21/</link>
       <pubDate>Fri, 16 Apr 2021 13:00:00 +0000</pubDate>
       <guid>/talk/bioss_april_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Statistical Learning Algorithm for Inferring Reaction Systems from Time Series Data</title>
-      <link>/talk/ai4health_january_21/</link>
-      <pubDate>Mon, 04 Jan 2021 17:00:00 +0000</pubDate>
-      <guid>/talk/ai4health_january_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Statistical Learning Algorithm for Inferring Reaction Systems from Time Series Data</title>
-      <link>/talk/bioss_may_19/</link>
-      <pubDate>Mon, 27 May 2019 16:00:00 +0000</pubDate>
-      <guid>/talk/bioss_may_19/</guid>
       <description></description>
     </item>
     
@@ -65,6 +49,14 @@
       <link>/talk/bioss_december_18/</link>
       <pubDate>Wed, 19 Dec 2018 16:00:00 +0000</pubDate>
       <guid>/talk/bioss_december_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactmine - a search algorithm for inferring chemical reaction networks from time series data</title>
+      <link>/talk/cristal_jan_23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/cristal_jan_23/</guid>
       <description></description>
     </item>
     
