@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armi Tiihonen | Julien Martinelli ツ</title>
+    <link>/author/armi-tiihonen/</link>
+      <atom:link href="/author/armi-tiihonen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Armi Tiihonen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_3.png</url>
+      <title>Armi Tiihonen</title>
+      <link>/author/armi-tiihonen/</link>
+    </image>
+    
+    <item>
+      <title>Cost-aware learning of relevant contextual variables within Bayesian optimization</title>
+      <link>/publication/mbjtsfk-23-neurips/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mbjtsfk-23-neurips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

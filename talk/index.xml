@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks &amp; poster sessions | Julien Martinelli</title>
+    <title>Talks &amp; poster sessions | Julien Martinelli ツ</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; poster sessions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu8ccea50eeed94e8d973bea3cd349963b_93277_512x512_fill_lanczos_center_3.png</url>
       <title>Talks &amp; poster sessions</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</title>
+      <link>/talk/mlcs_may_23/</link>
+      <pubDate>Mon, 15 May 2023 14:00:00 +0000</pubDate>
+      <guid>/talk/mlcs_may_23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human-In-The-Loop Machine Learning for Health</title>
@@ -25,14 +33,6 @@
       <link>/talk/cristal_jan_23/</link>
       <pubDate>Tue, 03 Jan 2023 10:30:00 +0000</pubDate>
       <guid>/talk/cristal_jan_23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</title>
-      <link>/talk/aiday_nov_22/</link>
-      <pubDate>Wed, 16 Nov 2022 09:00:00 +0000</pubDate>
-      <guid>/talk/aiday_nov_22/</guid>
       <description></description>
     </item>
     
