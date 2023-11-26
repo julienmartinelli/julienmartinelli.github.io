@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/talk/sistm_november_23/</loc>
+    <lastmod>2023-11-13T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-11-13T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2023-11-13T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +27,6 @@
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/julien-martinelli/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/louis-filstroff/</loc>
@@ -42,9 +48,6 @@
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/mlcs_may_23/</loc>
-    <lastmod>2023-05-15T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
     <lastmod>2023-05-15T14:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/bph_feb_23/</loc>
