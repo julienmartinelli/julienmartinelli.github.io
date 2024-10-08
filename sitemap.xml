@@ -2,50 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/talk/sistm_november_23/</loc>
-    <lastmod>2023-11-13T10:00:00+00:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/armi-tiihonen/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ayush-bharti/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/julien-martinelli/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/mbjtsfk-23-neurips/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/louis-filstroff/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/patrick-rinke/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/s.t.-john/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/sabina-j.-sloman/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/samuel-kaski/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/sistm_november_23/</loc>
     <lastmod>2023-11-13T10:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/</loc>
     <lastmod>2023-11-13T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/armi-tiihonen/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/ayush-bharti/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/mbjtsfk-23-neurips/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/julien-martinelli/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/louis-filstroff/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/s.t.-john/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/sabina-sloman/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/samuel-kaski/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/mlcs_may_23/</loc>
     <lastmod>2023-05-15T14:00:00+00:00</lastmod>

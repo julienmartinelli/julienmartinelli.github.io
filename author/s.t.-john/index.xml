@@ -5,7 +5,7 @@
     <link>/author/s.t.-john/</link>
       <atom:link href="/author/s.t.-john/index.xml" rel="self" type="application/rss+xml" />
     <description>S.T. John</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu53794c9ee7b29edcaa8d7f4321045f4e_406180_512x512_fill_lanczos_center_3.png</url>
       <title>S.T. John</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Cost-aware learning of relevant contextual variables within Bayesian optimization</title>
+      <title>Learning Relevant Contextual Variables Within Bayesian Optimization</title>
       <link>/publication/mbjtsfk-23-neurips/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>/publication/mbjtsfk-23-neurips/</guid>
       <description></description>
     </item>

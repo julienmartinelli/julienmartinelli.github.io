@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Julien Martinelli 🤯</title>
+    <title>Publications (See scholar or my CV for an updated list) | Julien Martinelli 🤯</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <description>Publications (See scholar or my CV for an updated list)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu53794c9ee7b29edcaa8d7f4321045f4e_406180_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
+      <title>Publications (See scholar or my CV for an updated list)</title>
       <link>/publication/</link>
     </image>
     
     <item>
-      <title>Cost-aware learning of relevant contextual variables within Bayesian optimization</title>
+      <title>Learning Relevant Contextual Variables Within Bayesian Optimization</title>
       <link>/publication/mbjtsfk-23-neurips/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>/publication/mbjtsfk-23-neurips/</guid>
       <description></description>
     </item>
