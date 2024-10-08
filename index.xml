@@ -5,20 +5,12 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Julien Martinelli 🤯</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2023 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu53794c9ee7b29edcaa8d7f4321045f4e_406180_512x512_fill_lanczos_center_3.png</url>
       <title>Julien Martinelli 🤯</title>
       <link>/</link>
     </image>
-    
-    <item>
-      <title>Learning Relevant Contextual Variables Within Bayesian Optimization</title>
-      <link>/publication/mbjtsfk-23-neurips/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/mbjtsfk-23-neurips/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Gaussian Processes for the inference of partially known mechanistic models used for clinical trial data analysis</title>
@@ -53,30 +45,6 @@
     </item>
     
     <item>
-      <title>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</title>
-      <link>/publication/mmfk-22-aistats/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/mmfk-22-aistats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactmine, a search algorithm for inferring chemical reaction networks from time series data</title>
-      <link>/publication/mgsfb-22-bioinformatics/</link>
-      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/mgsfb-22-bioinformatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accelerating metabolic models evaluation with statistical metamodels - application to Salmonella infection models</title>
-      <link>/publication/cemracs-22-esaim/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/cemracs-22-esaim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On learning mechanistic models from time series data with applications to cancer chronotherapies</title>
       <link>/talk/defense_feb_18/</link>
       <pubDate>Fri, 18 Feb 2022 14:00:00 +0000</pubDate>
@@ -97,46 +65,6 @@
       <link>/talk/bioss_april_21/</link>
       <pubDate>Fri, 16 Apr 2021 13:00:00 +0000</pubDate>
       <guid>/talk/bioss_april_21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A mathematical model of the circadian clock and drug pharmacology to optimize irinotecan administration timing in colorectal cancer</title>
-      <link>/publication/hm-21-csbj/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/hm-21-csbj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Learning to Identify Systemic Regulators of the Peripheral Circadian Clock</title>
-      <link>/publication/mb-21-eccb/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/mb-21-eccb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Statistical Unsupervised Learning Algorithm for Inferring Reaction Networks from Time Series Data</title>
-      <link>/publication/mgsf-19-icmlcb/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mgsf-19-icmlcb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On Inferring Reactions from Data Time Series by a Statistical Learning Greedy Heuristics</title>
-      <link>/publication/mgsf-19-cmsb/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mgsf-19-cmsb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications (See scholar or my CV for an updated list)</title>
-      <link>/publication/old_index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/old_index/</guid>
       <description></description>
     </item>
     
