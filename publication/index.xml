@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications (See scholar or my CV for an updated list) | Julien Martinelli 🤯</title>
+    <title>Publications | Julien Martinelli 🤯</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications (See scholar or my CV for an updated list)</description>
+    <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu53794c9ee7b29edcaa8d7f4321045f4e_406180_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications (See scholar or my CV for an updated list)</title>
+      <title>Publications</title>
       <link>/publication/</link>
     </image>
     
@@ -73,6 +73,14 @@
       <link>/publication/mgsf-19-cmsb/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/mgsf-19-cmsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications (See scholar or my CV for an updated list)</title>
+      <link>/publication/old_index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/old_index/</guid>
       <description></description>
     </item>
     
