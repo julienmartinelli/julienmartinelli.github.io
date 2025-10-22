@@ -1,4 +1,4 @@
-:root { --maxw: 900px; }
+:root { --maxw: 1060px; }
 * { box-sizing: border-box; }
 body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #222; background: #fff; }
 a { color: #4b2e83; text-decoration: none; }
