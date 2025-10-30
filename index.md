@@ -41,6 +41,8 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 - X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [Task-Agnostic Amortized Multi-Objective Optimization](https://openreview.net/forum?id=odmeUlWt).
 
+$\rightarrow$ Towards universal black-box optimization engines! Some slides about this emerging topic can be found [here]({{ '/assets/pdfs/tamo.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"}
+
 <br>
 #### A review submitted:
-- C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484). *arXiv*
+- C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484).
