@@ -16,6 +16,8 @@ I am also a member of the [ELLIS](https://ellis.eu/) AI network, affiliated with
 <br>
 My interests span:
 - *Biology-Informed Machine Learning*: blending flexible data-driven approaches and mechanistic models within Systems Biology
+
+$\rightarrow$ For more information, you can have a look to this position piece: [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](link)
 - Bayesian Inference, Gaussian Processes and Bayesian Optimization.
 
 <br>
@@ -30,7 +32,7 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 #### Two papers accepted to Neurips! See you in San Diego 🫨
 
 
-- **J. Martinelli**. [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](link). **(6% Acceptance rate)**
+- **J. Martinelli**. [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](https://arxiv.org/pdf/2510.25368). **(6% Acceptance rate)**
 
 - M. Sinaga, **J. Martinelli**, and S. Kaski. [Robust and Computation-Aware Gaussian Processes](https://arxiv.org/abs/2505.21133).
 
