@@ -1,6 +1,6 @@
 # Preprints
 
-X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [Task-Agnostic Amortized Multi-Objective Optimization](https://openreview.net/forum?id=odmeUlWt). *OpenReview*, 2025
+X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [Task-Agnostic Amortized Multi-Objective Optimization](https://openreview.net/forum?id=odmeUlWta8). *OpenReview*, 2025
 
 C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484). *arXiv*, 2025
 
@@ -12,7 +12,7 @@ M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferenti
 
 # Publications
 
-**J. Martinelli**. [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](link). *NeurIPS*, 2025 **(6% Acceptance rate)**
+**J. Martinelli**. [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](https://arxiv.org/pdf/2510.25368). *NeurIPS*, 2025 **(6% Acceptance rate)**
 
 M. Sinaga, **J. Martinelli**, and S. Kaski. [Robust and Computation-Aware Gaussian Processes](https://arxiv.org/abs/2505.21133), *NeurIPS*, 2025
 
