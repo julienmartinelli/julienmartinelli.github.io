@@ -2,8 +2,6 @@
 
 X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [Task-Agnostic Amortized Multi-Objective Optimization](https://openreview.net/forum?id=odmeUlWta8). *OpenReview*, 2025
 
-C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484). *arXiv*, 2025
-
 M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024
 
 **J. Martinelli**, J. Grignard, S. Soliman, A. Ballesta, and F. Fages. [Reactmine: a statistical search algorithm for inferring chemical reactions from time series data](https://arxiv.org/abs/2209.03185) *arXiv*, 2022
@@ -11,6 +9,8 @@ M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferenti
 ---
 
 # Publications
+
+C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484). *accepted for publication in Briefings in Bioinformatics*, 2025
 
 **J. Martinelli**. [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](https://arxiv.org/pdf/2510.25368). *NeurIPS*, 2025 **(6% Acceptance rate)**
 
@@ -39,6 +39,8 @@ P. Mikkola, **J. Martinelli**, L. Filstroff, and S. Kaski. [Multi-Fidelity Bayes
 ---
 
 # Workshop Communications
+
+M. Sinaga, **J. Martinelli**, and S. Kaski. [Computation-Aware Robust Gaussian Processes](https://openreview.net/forum?id=TqvndDrteG) *NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU-2024)*, 2024
 
 X. Zhang, **J. Martinelli**, and S. T. John. [Challenges in interpretability of additive models](https://arxiv.org/abs/2504.10169). *IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)*, 2024
 

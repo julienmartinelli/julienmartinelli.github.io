@@ -6,9 +6,9 @@ permalink: /teaching/
 
 # Teaching
 
-- 2025: Lecturer · M. Sc. · Aalto University  
+- 2025: Invited Lecture · M. Sc. · Aalto University  
   - **CS-E5885 – Modeling Biological Networks D**  
-    In charge of two lectures on data-driven discovery of ODE systems. *Slides coming soon.*
+    Data-driven discovery of ODE systems for biological dynamics.
     
 <br>
 - 2022–2023: Teaching Assistant · M. Sc. · Aalto University  
