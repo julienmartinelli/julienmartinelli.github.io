@@ -30,7 +30,7 @@ C. Frioux, S. Huet, S. Labarthe, **J. Martinelli**, T. Malou, D. Sherman, M.-L. 
 
 P. Mikkola, **J. Martinelli**, L. Filstroff, and S. Kaski. [Multi-Fidelity Bayesian Optimization with Unreliable Information Sources](https://proceedings.mlr.press/v206/mikkola23a.html). *AISTATS*, 2023
 
-**J. Martinelli**, **J. Hesse**, O. Aboumanify, A. Ballesta, and Â. Relógio. [A mathematical model of the circadian clock and drug pharmacology to optimize irinotecan administration timing in colorectal cancer](https://www.sciencedirect.com/science/article/pii/S2001037021003822). *Computational and Structural Biotechnology Journal*, 2021
+**J. Martinelli<sup>°</sup>**, J. Hesse<sup>°</sup>, O. Aboumanify, A. Ballesta, and A. Relógio. [A mathematical model of the circadian clock and drug pharmacology to optimize irinotecan administration timing in colorectal cancer](https://www.sciencedirect.com/science/article/pii/S2001037021003822). *Computational and Structural Biotechnology Journal*, 2021
 
 **J. Martinelli**, S. Dulong, X.-M. Li, M. Teboul, S. Soliman, F. Lévi, F. Fages, and A. Ballesta. [Model learning to identify systemic regulators of the peripheral circadian clock](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i401/6319666?login=false). *Bioinformatics*, 2021
 
@@ -45,6 +45,8 @@ M. Sinaga, **J. Martinelli**, and S. Kaski. [Computation-Aware Robust Gaussian P
 X. Zhang, **J. Martinelli**, and S. T. John. [Challenges in interpretability of additive models](https://arxiv.org/abs/2504.10169). *IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)*, 2024
 
 **J. Martinelli**, Y. Nahal, D. Lê, O. Engkvist, and S. Kaski. [Leveraging expert feedback to align proxy and ground truth rewards in goal-oriented molecular generation]((https://ai4d3.github.io/papers/54.pdf)). *NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development*, 2023
+
+**J. Martinelli**, A. Bharti, A. Tiihonen, L. Filstroff, S.T. John, S. Sloman, P. Rinke and S. Kaski. [Learning relevant contextual variables within Bayesian optimization](https://openreview.net/forum?id=OWz37WOETP) *NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World (RealML-2023)*, 2023
 
 M. Sinaga, **J. Martinelli**, and S. Kaski. [Preferential Heteroscedastic Bayesian Optimization with Informative Noise Priors](https://openreview.net/pdf?id=SmvTEe9iSG) *NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World (RealML-2023)*, 2023
 
