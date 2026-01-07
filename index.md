@@ -18,7 +18,7 @@ My interests span:
 - *Biology-Informed Machine Learning*: blending flexible data-driven approaches and mechanistic models within Systems Biology
 
 $\rightarrow$ For more information, you can have a look to this position piece: [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](link)
-- Bayesian Inference, Gaussian Processes and Bayesian Optimization.
+- (Approximate) Bayesian Inference, Gaussian Processes and Bayesian Optimization.
 
 <br>
 
@@ -29,6 +29,15 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ## News
 
-<br>
+
+#### Summer Internships for Aalto MSc students: 
+
+We propose 3 internships for this summer, topics include:
+- High-dimensional Bayesian optimization
+- Boolean network-informed Gaussian processes for biological dynamical systems
+- Mechanistic interpretability for Tabular Foundation Models
+
+If you are a MSc student at Aalto University and interested, send me an email: firstname.lastname@aalto.fi. The detailed call is available [here](https://www.aalto.fi/en/department-of-computer-science/summer-employee-positions-at-the-department-of-computer-science-2026?check_logged_in=1) (subjects 14, 25 and 10).
+
 #### A review accepted for publication in *Briefings of Bioinformatics*:
 - C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484).
