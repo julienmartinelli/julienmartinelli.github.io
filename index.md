@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <br>
- I am a __FCAI Research Fellow__ at Aalto University, a 5-year position funded by the [Finnish Center for Artificial Intelligence](https://fcai.fi). I work with groups
+ Since April 2025, I am a __FCAI Research Fellow__ at Aalto University, a 5-year position funded by the [Finnish Center for Artificial Intelligence](https://fcai.fi). I work with groups
 
 - [Computational Systems Biology](https://research.cs.aalto.fi/csb/) (Prof. Harri Lähdesmäki)
 - [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) (Prof. Samuel Kaski)

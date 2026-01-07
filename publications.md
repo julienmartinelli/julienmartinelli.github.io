@@ -1,11 +1,10 @@
 # Preprints
 
-X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization
-](https://arxiv.org/abs/2512.11114). *ArXiv*, 2025
+X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *arXiv*, 2025
 
 M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024
 
-**J. Martinelli**, J. Grignard, S. Soliman, A. Ballesta, and F. Fages. [Reactmine: a statistical search algorithm for inferring chemical reactions from time series data](https://arxiv.org/abs/2209.03185) *arXiv*, 2022
+**J. Martinelli**, J. Grignard, S. Soliman, A. Ballesta, and F. Fages. [Reactmine: a statistical search algorithm for inferring chemical reactions from time series data](https://arxiv.org/abs/2209.03185). *arXiv*, 2022
 
 ---
 
