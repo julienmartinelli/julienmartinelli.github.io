@@ -1,6 +1,6 @@
 # Preprints
 
-X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *arXiv*, 2025
+X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *Accepted for publication in ICLR*, 2026
 
 M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024
 

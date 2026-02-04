@@ -21,13 +21,16 @@ $\rightarrow$ For more information, you can have a look to this position piece: 
 - (Approximate) Bayesian Inference, Gaussian Processes and Bayesian Optimization.
 
 <br>
-
 I obtained my PhD in February 2022 from Ecole polytechnique, Inria and Institut Curie, under the supervision of [François Fages](http://lifeware.inria.fr/wiki/Fages/HomePage) and [Annabelle Ballesta](http://annabelle.ballesta.fr/). The manuscript can be
 found [here](https://www.theses.fr/2022IPPAX011) and the slides [here]({{ '/assets/pdfs/defense.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"}. A detailed CV can be found [here]({{ '/assets/pdfs/cv.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"} (Last updated: April 2025).
 
 Besides, for a few years now, I have been cultivating a passion for indoor bouldering, with a mild success thus far 🫠
 
 ## News
+
+#### A paper accepted at *ICLR'26*:
+
+- X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114).
 
 
 #### Summer Internships for Aalto MSc students: 
