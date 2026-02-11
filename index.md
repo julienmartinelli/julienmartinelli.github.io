@@ -28,6 +28,9 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ## News
 
+#### A review published in *Briefings of Bioinformatics*:
+- C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://academic.oup.com/bib/article/27/1/bbaf722/8471778).
+
 #### A paper accepted at *ICLR'26*:
 
 - X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114).
@@ -41,6 +44,3 @@ We propose 3 internships for this summer, topics include:
 - Mechanistic interpretability for Tabular Foundation Models
 
 If you are a MSc student at Aalto University and interested, send me an email: firstname.lastname@aalto.fi. The detailed call is available [here](https://www.aalto.fi/en/department-of-computer-science/summer-employee-positions-at-the-department-of-computer-science-2026?check_logged_in=1) (subjects 14, 25 and 10).
-
-#### A review accepted for publication in *Briefings of Bioinformatics*:
-- C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484).

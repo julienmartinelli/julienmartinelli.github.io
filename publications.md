@@ -10,7 +10,7 @@ M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferenti
 
 # Publications
 
-C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://arxiv.org/abs/2508.21484). *accepted for publication in Briefings in Bioinformatics*, 2025
+C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://academic.oup.com/bib/article/27/1/bbaf722/8471778). *Briefings in Bioinformatics*, 2026
 
 **J. Martinelli**. [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](https://arxiv.org/pdf/2510.25368). *NeurIPS*, 2025 **(6% Acceptance rate)**
 
