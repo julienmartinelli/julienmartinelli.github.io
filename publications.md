@@ -1,6 +1,6 @@
 # Preprints
 
-X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *Accepted for publication in ICLR*, 2026
+- Tuan A. Vu, **J. Martinelli**, Harri Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935).
 
 M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024
 
@@ -9,6 +9,8 @@ M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferenti
 ---
 
 # Publications
+
+X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *ICLR*, 2026
 
 C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://academic.oup.com/bib/article/27/1/bbaf722/8471778). *Briefings in Bioinformatics*, 2026
 

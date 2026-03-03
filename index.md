@@ -28,6 +28,9 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ## News
 
+#### New work on Time-Aware Latent Space Bayesian Optimization:
+- Tuan A. Vu, **J. Martinelli**, Harri Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935).
+
 #### A review published in *Briefings of Bioinformatics*:
 - C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://academic.oup.com/bib/article/27/1/bbaf722/8471778).
 
