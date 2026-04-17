@@ -28,8 +28,8 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ## News
 
-#### New work on Bayesian variable selection for Pharmacogenetics studies.:
-**J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026.
+#### New work on Bayesian variable selection for Pharmacogenetics studies:
+- **J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026.
 
 #### New work on Time-Aware Latent Space Bayesian Optimization:
 - T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935). *arXiv*, 2026.
