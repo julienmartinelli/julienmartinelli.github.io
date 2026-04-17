@@ -1,6 +1,8 @@
 # Preprints
 
-- Tuan A. Vu, **J. Martinelli**, Harri Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935).
+**J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026
+
+T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935). *arXiv*, 2026
 
 M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024
 

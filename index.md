@@ -28,12 +28,15 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ## News
 
-#### New work on Time-Aware Latent Space Bayesian Optimization:
-- Tuan A. Vu, **J. Martinelli**, Harri Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935).
+#### New work on Bayesian variable selection for Pharmacogenetics studies.:
+**J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026.
 
-#### A review published in *Briefings of Bioinformatics*:
-- C. Métayer, A. Ballesta, and **J. Martinelli**. [Data-driven Discovery of Digital Twins in Biomedical Research](https://academic.oup.com/bib/article/27/1/bbaf722/8471778).
+#### New work on Time-Aware Latent Space Bayesian Optimization:
+- T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935). *arXiv*, 2026.
+
 
 #### A paper accepted at *ICLR'26*:
 
 - X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114).
+
+$\rightarrow$ I will present this work as a poster at ISBA 2026 in Nagoya, on June 29th.
