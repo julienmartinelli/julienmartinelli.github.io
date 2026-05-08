@@ -18,7 +18,7 @@ My interests span:
 - *Biology-Informed Machine Learning*: blending flexible data-driven approaches and mechanistic models within Systems Biology
 
 $\rightarrow$ For more information, you can have a look to this position piece: [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](link)
-- Bayesian Optimization, more particularly these days, in-context learning* flavors, see e.g., [our recent work this ICLR'26](https://openreview.net/forum?id=odmeUlWta8) or [our recent preprint](https://arxiv.org/abs/2605.06187).  
+- Bayesian Optimization, in particular recently, in-context learning flavors, see e.g., [our ICLR'26 paper](https://openreview.net/forum?id=odmeUlWta8) or [our recent preprint](https://arxiv.org/abs/2605.06187).  
 
 <br>
 I obtained my PhD in February 2022 from Ecole polytechnique, Inria and Institut Curie, under the supervision of [François Fages](http://lifeware.inria.fr/wiki/Fages/HomePage) and [Annabelle Ballesta](http://annabelle.ballesta.fr/). The manuscript can be
@@ -29,7 +29,7 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 ## News
 
 ### A paper accepted at [ProbML 2026](https://probml.cc/call/)! 
-- Marshal Sinaga, **J.M.**, and S. Kaski. [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization]. Stay tuned for camera-ready version!
+- Marshal Sinaga, **J.M.**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. Stay tuned for camera-ready version!
 
 ### New work on in-context optimization:
 - N. Blumer, **J. M.**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback
