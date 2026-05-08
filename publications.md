@@ -1,16 +1,21 @@
 # Preprints
 
+N. Blumer, **J. Martinelli**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback
+](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
+
 **J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026
 
 T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935). *arXiv*, 2026
 
-M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024
+<!-- M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024 -->
 
 **J. Martinelli**, J. Grignard, S. Soliman, A. Ballesta, and F. Fages. [Reactmine: a statistical search algorithm for inferring chemical reactions from time series data](https://arxiv.org/abs/2209.03185). *arXiv*, 2022
 
 ---
 
 # Publications
+
+Marshal Sinaga, **J. Martinelli**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. To appear in [Proceedings of ProbML 2026](https://probml.cc/).
 
 X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *ICLR*, 2026
 
