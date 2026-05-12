@@ -32,7 +32,8 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 - M. Sinaga, **J.M.**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. Stay tuned for camera-ready version!
 
 #### New work on Bayesian Optimization:
-- M. Sinaga<sup>*</sup>, **J. M.**<sup>^</sup>, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization
+- M. Sinaga<sup>°</sup>, **J. M.**<sup>°</sup>
+ T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization
 ](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
 
 #### New work on in-context optimization:
