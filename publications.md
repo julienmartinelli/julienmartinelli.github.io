@@ -1,5 +1,8 @@
 # Preprints
 
+- M. Sinaga^*^, **J. Martinelli**^*^, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization
+](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
+
 N. Blumer, **J. Martinelli**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback
 ](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
 
@@ -15,7 +18,7 @@ T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian 
 
 # Publications
 
-Marshal Sinaga, **J. Martinelli**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. To appear in [Proceedings of ProbML 2026](https://probml.cc/).
+M. Sinaga, **J. Martinelli**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. To appear in [Proceedings of ProbML 2026](https://probml.cc/).
 
 X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *ICLR*, 2026
 
