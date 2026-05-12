@@ -1,6 +1,6 @@
 # Preprints
 
-- M. Sinaga^*^, **J. Martinelli**^*^, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization
+M. Sinaga<sup>*</sup>, **J. Martinelli**<sup>^</sup>, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization
 ](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
 
 N. Blumer, **J. Martinelli**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback
