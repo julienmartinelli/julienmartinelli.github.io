@@ -1,10 +1,11 @@
 # Preprints
 
-M. Sinaga<sup>°</sup>, **J. Martinelli**<sup>°</sup>, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization
-](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
+**J. Martinelli.**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague
+[Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026.
 
-N. Blumer, **J. Martinelli**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback
-](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
+M. Sinaga<sup>°</sup>, **J. Martinelli**<sup>°</sup>, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
+
+N. Blumer, **J. Martinelli**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
 
 **J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026
 
