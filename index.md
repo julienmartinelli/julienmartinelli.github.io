@@ -31,14 +31,16 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 #### A paper accepted at [ProbML 2026](https://probml.cc/call/)! 
 - M. Sinaga, **J.M.**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. Stay tuned for camera-ready version!
 
+#### New work on Gaussian Process ODEs:
+- **J. M.**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague
+[Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026.
+
 #### New work on Bayesian Optimization:
 - M. Sinaga<sup>°</sup>, **J. M.**<sup>°</sup>,
- T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization
-](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
+ T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
 
 #### New work on in-context optimization:
-- N. Blumer, **J. M.**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback
-](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
+- N. Blumer, **J. M.**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
 
 #### New work on Bayesian variable selection for Pharmacogenetics studies:
 - **J. M.**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026.
