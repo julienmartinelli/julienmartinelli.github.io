@@ -1,6 +1,6 @@
 # Preprints
 
-**J. Martinelli.**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague
+**J. Martinelli**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague.
 [Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026.
 
 M. Sinaga<sup>°</sup>, **J. Martinelli**<sup>°</sup>, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
@@ -19,7 +19,7 @@ T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian 
 
 # Publications
 
-M. Sinaga, **J. Martinelli**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. To appear in [Proceedings of ProbML 2026](https://probml.cc/).
+M. Sinaga, **J. Martinelli**, and S. Kaski. [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657). [*ProbML*](https://probml.cc/), 2026.
 
 X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *ICLR*, 2026
 

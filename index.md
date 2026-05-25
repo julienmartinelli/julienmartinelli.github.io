@@ -29,10 +29,10 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 ## News
 
 #### A paper accepted at [ICML workshop on Epistemic Intelligence and Machine Learning](https://sites.google.com/view/eimlicml2026/home)!
-- T. A. Vu, H. Lähdesmäki, **J.M.**. In-Context Learning for Latent Space Bayesian Optimization. Stay tuned for camera-ready version!
+- T. A. Vu, H. Lähdesmäki, **J.M.** In-Context Learning for Latent Space Bayesian Optimization. Stay tuned for camera-ready version!
 
 #### A paper accepted at [ProbML 2026](https://probml.cc/call/)! 
-- M. Sinaga, **J.M.**, and S. Kaski. Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization. Stay tuned for camera-ready version!
+- M. Sinaga, **J.M.**, and S. Kaski. [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
 
 #### New work on Gaussian Process ODEs:
 - **J. M.**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague
