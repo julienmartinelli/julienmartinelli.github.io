@@ -34,13 +34,14 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 - [ProbML 2026](https://probml.cc/call/), July 5th, Seoul: Marshal Sinaga will present our work on [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
 
-- ICML, July 10-11th, Seoul: In-context learning for latent space bayesian optimiztion ([EIML](https://sites.google.com/view/eimlicml2026/home) and [DEMO](https://decision-making-offline2online-icml2026.github.io/) Workshops, Poster sessions)
+- [ICML](https://icml.cc/), July 10-11th, Seoul: In-context learning for latent space bayesian optimiztion ([EIML](https://sites.google.com/view/eimlicml2026/home) and [DEMO](https://decision-making-offline2online-icml2026.github.io/) Workshops, Poster sessions)
 
-- ECMTB, July 14th, Graz: Bayesian discovery of biochemical reaction networks from time-course data with projection predictive inference (Contributed talk, part of a minisymposium on [Automated discovery of dynamical digital twins from time series](https://ecmtb2026.org/contributions/minisymposia/ms83))
+- [ECMTB](https://ecmtb2026.org/), July 14th, Graz: Bayesian discovery of biochemical reaction networks from time-course data with projection predictive inference (Contributed talk, part of a minisymposium on [Automated discovery of dynamical digital twins from time series](https://ecmtb2026.org/contributions/minisymposia/ms83))
 
-- ECTMB, July 16th, Graz: [Learning Population Dynamical Models in Systems Biology with Mixed-Effect Gaussian Process ODEs](https://ecmtb2026.org/contributions/poster-1476) (Poster session)
+- [ECTMB](https://ecmtb2026.org/), July 16th, Graz: [Learning Population Dynamical Models in Systems Biology with Mixed-Effect Gaussian Process ODEs](https://ecmtb2026.org/contributions/poster-1476) (Poster session)
 
-- Julie Bertrand will present our work on [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364) at [Stancon 2026](https://www.stancon2026.org/workshops/)
+- [Stancon 2026](https://www.stancon2026.org/workshops/), August 21th, Uppsala: 
+Julie Bertrand will present our work on [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364).
 
 
 #### A paper accepted at [ICML workshop on Epistemic Intelligence and Machine Learning](https://sites.google.com/view/eimlicml2026/home)!
