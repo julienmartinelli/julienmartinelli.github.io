@@ -18,7 +18,7 @@ My interests span:
 - *Biology-Informed Machine Learning*: blending flexible data-driven approaches and mechanistic models within Systems Biology
 
 $\rightarrow$ For more information, you can have a look to this position piece: [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](link)
-- Bayesian Optimization, in particular recently, in-context learning flavors, see e.g., [our ICLR'26 paper](https://openreview.net/forum?id=odmeUlWta8) or [our recent preprint](https://arxiv.org/abs/2605.06187).  
+- Bayesian Optimization, in particular recently, in-context learning flavors, see e.g., [our ICLR'26 paper](https://openreview.net/forum?id=odmeUlWta8), [our recent preprint](https://arxiv.org/abs/2605.06187), or [this poster]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"}.
 
 <br>
 I obtained my PhD in February 2022 from Ecole polytechnique, Inria and Institut Curie, under the supervision of [François Fages](http://lifeware.inria.fr/wiki/Fages/HomePage) and [Annabelle Ballesta](http://annabelle.ballesta.fr/). The manuscript can be
@@ -30,7 +30,7 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ### Upcoming talks and posters:
 
-- [ISBA](https://isba2026.github.io/]), June 29th, Nagoya: In-context multi-objective optimization (Poster session)
+- [ISBA](https://isba2026.github.io/]), June 29th, Nagoya: [In-context learning for universal Bayesian Optimization]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"} (Poster session).
 
 - [ProbML 2026](https://probml.cc/call/), July 5th, Seoul: Marshal Sinaga will present our work on [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
 
