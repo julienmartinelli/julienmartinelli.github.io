@@ -53,7 +53,7 @@ P. Mikkola, **J. Martinelli**, L. Filstroff, and S. Kaski. [Multi-Fidelity Bayes
 
 # Workshop Communications
 
-T. A. Vu, H. Lähdesmäki, **J.M.** [In-Context Learning for Latent Space Bayesian Optimization](https://arxiv.org/abs/2606.09664) *ICML 2026 Workshop on Epistemic Intelligence and Machine Learning (EIML-2026)*, 2026
+T. A. Vu, H. Lähdesmäki, **J. Martinelli**. [In-Context Learning for Latent Space Bayesian Optimization](https://arxiv.org/abs/2606.09664) *ICML 2026 Workshop on Epistemic Intelligence and Machine Learning (EIML-2026)*, 2026
 
 M. Sinaga, **J. Martinelli**, and S. Kaski. [Computation-Aware Robust Gaussian Processes](https://openreview.net/forum?id=TqvndDrteG) *NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU-2024)*, 2024
 
