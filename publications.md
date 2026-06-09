@@ -1,11 +1,11 @@
 # Preprints
 
 **J. Martinelli**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague.
-[Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026.
+[Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026
 
-M. Sinaga<sup>°</sup>, **J. Martinelli**<sup>°</sup>, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
+M. Sinaga<sup>°</sup>, **J. Martinelli**<sup>°</sup>, T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization](https://arxiv.org/abs/2605.10572). *arXiv*, 2026
 
-N. Blumer, **J. Martinelli**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
+N. Blumer, **J. Martinelli**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback](https://arxiv.org/abs/2605.06187). *arXiv*, 2026
 
 **J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026
 
@@ -19,7 +19,7 @@ T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian 
 
 # Publications
 
-M. Sinaga, **J. Martinelli**, and S. Kaski. [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657). [*ProbML*](https://probml.cc/), 2026.
+M. Sinaga, **J. Martinelli**, and S. Kaski. [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657). [*ProbML*](https://probml.cc/), 2026
 
 X. Zhang, C. Hassan, **J. Martinelli**, D. Huang, and S. Kaski. [In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114). *ICLR*, 2026
 
@@ -52,6 +52,8 @@ P. Mikkola, **J. Martinelli**, L. Filstroff, and S. Kaski. [Multi-Fidelity Bayes
 ---
 
 # Workshop Communications
+
+T. A. Vu, H. Lähdesmäki, **J.M.** [In-Context Learning for Latent Space Bayesian Optimization](https://arxiv.org/abs/2606.09664) *ICML 2026 Workshop on Epistemic Intelligence and Machine Learning (EIML-2026)*, 2026
 
 M. Sinaga, **J. Martinelli**, and S. Kaski. [Computation-Aware Robust Gaussian Processes](https://openreview.net/forum?id=TqvndDrteG) *NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty (BDU-2024)*, 2024
 

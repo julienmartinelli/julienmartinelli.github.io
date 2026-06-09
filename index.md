@@ -34,7 +34,7 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 - [ProbML 2026](https://probml.cc/call/), July 5th, Seoul: Marshal Sinaga will present our work on [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
 
-- [ICML](https://icml.cc/), July 10-11th, Seoul: In-context learning for latent space bayesian optimiztion ([EIML](https://sites.google.com/view/eimlicml2026/home) and [DEMO](https://decision-making-offline2online-icml2026.github.io/) Workshops, Poster sessions)
+- [ICML](https://icml.cc/), July 10-11th, Seoul: [In-context learning for latent space Bayesian optimization](https://arxiv.org/abs/2606.09664) ([EIML](https://sites.google.com/view/eimlicml2026/home) and [DEMO](https://decision-making-offline2online-icml2026.github.io/) Workshops, Poster sessions)
 
 - [ECMTB](https://ecmtb2026.org/), July 14th, Graz: Bayesian discovery of biochemical reaction networks from time-course data with projection predictive inference (Contributed talk, part of a minisymposium on [Automated discovery of dynamical digital twins from time series](https://ecmtb2026.org/contributions/minisymposia/ms83))
 
@@ -45,7 +45,7 @@ Julie Bertrand will present our work on [Joint Bayesian Inference of Genetic Eff
 
 
 #### A paper accepted at [ICML workshop on Epistemic Intelligence and Machine Learning](https://sites.google.com/view/eimlicml2026/home)!
-- T. A. Vu, H. Lähdesmäki, **J.M.** In-Context Learning for Latent Space Bayesian Optimization. Stay tuned for camera-ready version!
+- T. A. Vu, H. Lähdesmäki, **J.M.** [In-Context Learning for Latent Space Bayesian Optimization](https://arxiv.org/abs/2606.09664).
 
 #### A paper accepted at [ProbML 2026](https://probml.cc/call/)! 
 - M. Sinaga, **J.M.**, and S. Kaski. [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
