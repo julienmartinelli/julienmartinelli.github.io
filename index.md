@@ -30,7 +30,7 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ### Upcoming talks and posters:
 
-- [ISBA](https://isba2026.github.io/]), June 29th, Nagoya: [In-context learning for universal Bayesian Optimization]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"} (Poster session).
+- [ISBA](https://isba2026.github.io/), June 29th, Nagoya: [In-context learning for universal Bayesian Optimization]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"} (Poster session).
 
 - [ProbML 2026](https://probml.cc/call/), July 5th, Seoul: Marshal Sinaga will present our work on [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
 
