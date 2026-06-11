@@ -17,7 +17,7 @@ I am also a member of the [ELLIS](https://ellis.eu/) AI network, affiliated with
 My interests span:
 - *Biology-Informed Machine Learning*: blending flexible data-driven approaches and mechanistic models within Systems Biology
 
-$\rightarrow$ For more information, you can have a look to this position piece: [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](link)
+$\rightarrow$ For more information, you can have a look to this position piece: [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](https://papers.nips.cc/paper_files/paper/2025/hash/af6c0a1b4a4faf1c9900d2771bafd672-Abstract-Position_Paper_Track.html)
 - Bayesian Optimization, in particular recently, in-context learning flavors, see e.g., [our ICLR'26 paper](https://openreview.net/forum?id=odmeUlWta8), [our recent preprint](https://arxiv.org/abs/2605.06187), or [this poster]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"}.
 
 <br>
