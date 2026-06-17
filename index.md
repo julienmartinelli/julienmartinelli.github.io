@@ -28,6 +28,10 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ## News
 
+### Funding news:
+
+I was awarded an [Academy Research Fellowship](https://research.fi/en/results/funding/88760) by the Research Council of Finland, providing four years of support for my independent research as Principal Investigator and for a PhD student position from September 2026 to September 2030.
+
 ### Upcoming talks and posters:
 
 - [ISBA](https://isba2026.github.io/), June 29th, Nagoya: [In-context learning for universal Bayesian Optimization]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"} (Poster session).
