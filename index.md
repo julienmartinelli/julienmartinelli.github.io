@@ -28,39 +28,19 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ## News
 
+We are recruiting a PhD student at Aalto University, jointly supervised by Harri Lähdesmäki and me. A short project description is available [here]({{ '/assets/pdfs/phd_call.pdf' | relative_url }}){:target="_blank" rel="noopener"}. The position will be advertised through Aalto’s application system shortly.
+
 ### Funding news:
 
 I was awarded an [Academy Research Fellowship](https://research.fi/en/results/funding/88760) by the Research Council of Finland, providing four years of support for my independent research as Principal Investigator and for a PhD student position from September 2026 to September 2030.
 
-### Upcoming talks and posters:
+<!-- ### Upcoming talks and posters: -->
 
-- [ISBA](https://isba2026.github.io/), June 29th, Nagoya: [In-context learning for universal Bayesian Optimization]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"} (Poster session).
-
-- [ProbML 2026](https://probml.cc/call/), July 5th, Seoul: Marshal Sinaga will present our work on [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
-
-- [ICML](https://icml.cc/), July 10-11th, Seoul: [In-context learning for latent space Bayesian optimization](https://arxiv.org/abs/2606.09664) ([EIML](https://sites.google.com/view/eimlicml2026/home) and [DEMO](https://decision-making-offline2online-icml2026.github.io/) Workshops, Poster sessions)
-
-- [ECMTB](https://ecmtb2026.org/), July 14th, Graz: Bayesian discovery of biochemical reaction networks from time-course data with projection predictive inference (Contributed talk, part of a minisymposium on [Automated discovery of dynamical digital twins from time series](https://ecmtb2026.org/contributions/minisymposia/ms83))
-
-- [ECTMB](https://ecmtb2026.org/), July 16th, Graz: [Learning Population Dynamical Models in Systems Biology with Mixed-Effect Gaussian Process ODEs](https://ecmtb2026.org/contributions/poster-1476) (Poster session)
+<!-- - [ECTMB](https://ecmtb2026.org/), July 16th, Graz: [Learning Population Dynamical Models in Systems Biology with Mixed-Effect Gaussian Process ODEs](https://ecmtb2026.org/contributions/poster-1476) (Poster session)
 
 - [Stancon 2026](https://www.stancon2026.org/workshops/), August 21th, Uppsala: 
-Julie Bertrand will present our work on [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364).
+Julie Bertrand will present our work on [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). -->
 
 
-#### A paper accepted at [ICML workshop on Epistemic Intelligence and Machine Learning](https://sites.google.com/view/eimlicml2026/home)!
-- T. A. Vu, H. Lähdesmäki, **J.M.** [In-Context Learning for Latent Space Bayesian Optimization](https://arxiv.org/abs/2606.09664).
-
-#### A paper accepted at [ProbML 2026](https://probml.cc/call/)! 
-- M. Sinaga, **J.M.**, and S. Kaski. [Anchor-Based Heteroscedastic Noise for Preferential Bayesian Optimization](https://arxiv.org/pdf/2405.14657).
-
-#### New work on Gaussian Process ODEs:
-- **J. M.**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague
-[Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026.
-
-#### New work on Bayesian Optimization:
-- M. Sinaga<sup>°</sup>, **J. M.**<sup>°</sup>,
- T. Turpeinen, and S. Kaski. [Online Sharp-Calibrated Bayesian Optimization](https://arxiv.org/abs/2605.10572). *arXiv*, 2026.
-
-#### New work on In-context optimization:
-- N. Blumer, **J. M.**, and S. Kaski. [In-Context Black-Box Optimization with Unreliable Feedback](https://arxiv.org/abs/2605.06187). *arXiv*, 2026.
+<!-- #### A paper accepted at [ICML workshop on Epistemic Intelligence and Machine Learning](https://sites.google.com/view/eimlicml2026/home)!
+- T. A. Vu, H. Lähdesmäki, **J.M.** [In-Context Learning for Latent Space Bayesian Optimization](https://arxiv.org/abs/2606.09664). -->
