@@ -30,7 +30,7 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 We are recruiting a PhD student at Aalto University, jointly supervised by Harri Lähdesmäki and me. A short project description is available [here]({{ '/assets/pdfs/phd_call.pdf' | relative_url }}){:target="_blank" rel="noopener"}. The ad is now also up on Aalto University's website [here](https://www.aalto.fi/en/open-positions/doctoral-researcher-in-probabilistic-machine-learning)!
 
-It is also possible to apply to this project as part of the ELLIS PhD call: [see here](https://www.ellisinstitute.fi/postdoc-and-phd-recruit-autumn-2026) for more information! 
+It is also possible to apply to this project as part of the ELLIS Institute Finland PhD call: [see here](https://www.ellisinstitute.fi/postdoc-and-phd-recruit-autumn-2026) for more information! The deadline is set to September 21th.
 
 ### Funding news:
 
