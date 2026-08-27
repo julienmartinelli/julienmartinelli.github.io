@@ -42,7 +42,7 @@ I would for instance recommand [this one on Thyroid function](https://www.youtub
 
 - [Lex Fridman](https://www.youtube.com/@lexfridman)
 
-Not only about AI, far from it, but all the big names of (eg Jensen Huang NVIDIA's CEO, Demis Hassabis, Dario Amodei...). A good example would be [n.490 - State of AI in 2026](https://www.youtube.com/watch?v=EV7WhVT270Q)
+Not only about AI, far from it, but feature many of the big names there (eg Jensen Huang NVIDIA's CEO, Demis Hassabis, Dario Amodei...). A good example would be [n.490 - State of AI in 2026](https://www.youtube.com/watch?v=EV7WhVT270Q)
 
 - [Dwarkesh Patel](https://www.youtube.com/@DwarkeshPatel)
 
