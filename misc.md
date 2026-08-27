@@ -29,15 +29,14 @@ I feel like knowing someone's YouTube feed gives you an enormous deal of informa
 - [Huberman Lab](https://www.youtube.com/@hubermanlab)
 
 This has to be one of the most famous podcast these days. Andrew Huberman is a Stanford Professor of Neurobiology and Ophthalmology at Stanford, but nowadays mainly hosts a podcast, the Huberman Lab. Among other things, the show features all sorts of guests talking about a broad range of topics, from strength training, immunology, meditation, circadian rhythms, you name it. Many of these topics are quite complex, and the true strength of the show is to digest them in understanble chunks for us.
+
 One of the most fascinating episodes to me features Zachary Knight's (UCSF, Physiology Professor), on [the science of Hunger](https://www.youtube.com/watch?v=C5KpIXjpzdY), and a great introduction to the (soon-to-become) trillion dollar industry that GLP1 agonists represent.
 
 - [The drive](https://www.youtube.com/@PeterAttiaMD)
 
-This one is definitely more oriented towards longevity, healthcare and what not. The host is Peter Attia, whose name since appeared multiple times in the Epstein Files, so the podcast took a big hit, although completely justified. Still, the show involves incredibly knowledgeable guests, and I would for instance recommand [this one on Thyroid function](https://www.youtube.com/watch?v=jT33TbUVCGI&t=11s), a small endocrine gland that definitely does not receive all the credit it should, and is probably not properly managed by a sizeable amount of the population. 
-<!-- 
-- Nick Norwitz
+This one is definitely more oriented towards longevity, healthcare and what not. The host is Peter Attia, whose name since appeared multiple times in the Epstein Files, so the podcast took a big hit, although completely justified. Still, the show involves incredibly knowledgeable guests.
 
-A truly unique character dedicated about sharing exciting new biology science. Nick will often  -->
+I would for instance recommand [this one on Thyroid function](https://www.youtube.com/watch?v=jT33TbUVCGI&t=11s), a small endocrine gland that definitely does not receive all the credit it should, and is probably not properly managed by a sizeable amount of the population. 
 
 ## AI 
 
