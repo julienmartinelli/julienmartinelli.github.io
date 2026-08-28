@@ -28,7 +28,7 @@ I feel like knowing someone's YouTube feed gives you an enormous deal of informa
 
 - [Huberman Lab](https://www.youtube.com/@hubermanlab)
 
-This has to be one of the most famous podcast these days. Andrew Huberman is a Stanford Professor of Neurobiology and Ophthalmology at Stanford, but nowadays mainly hosts a podcast, the Huberman Lab. Among other things, the show features all sorts of guests talking about a broad range of topics, from strength training, immunology, meditation, circadian rhythms, you name it. Many of these topics are quite complex, and the true strength of the show is to digest them in understanble chunks for us.
+This has to be one of the most famous podcast these days. Andrew Huberman is a Professor of Neurobiology and Ophthalmology at Stanford, but nowadays mainly hosts a podcast, the Huberman Lab. Among other things, the show features all sorts of guests talking about a broad range of topics, from strength training, immunology, meditation, circadian rhythms, you name it. Many of these topics are quite complex, and the true strength of the show is to digest them in understanble chunks for us.
 
 One of the most fascinating episodes to me features Zachary Knight's (UCSF, Physiology Professor), on [the science of Hunger](https://www.youtube.com/watch?v=C5KpIXjpzdY), and a great introduction to the (soon-to-become) trillion dollar industry that GLP1 agonists represent.
 
