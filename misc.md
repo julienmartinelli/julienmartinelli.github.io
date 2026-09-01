@@ -8,7 +8,7 @@ Here are some information sources I find valuable enough to share them to random
 
 # Useful links
 
-- [Markus Heinonen's guildeines for machine learning PhD students](https://markusheinonen.github.io/advice.html)
+- [Markus Heinonen's guidelines for machine learning PhD students](https://markusheinonen.github.io/advice.html)
 
 A must read, not only for PhD students, neither just for ML students.
 
@@ -22,7 +22,7 @@ A daily newsletter regarding recent AI progress.
 
 # All sorts of podcasts
 
-I feel like knowing someone's YouTube feed gives you an enormous deal of information about that person, perhaps even too much 🫥. Here, I share some of my favorite sources, spanning a wide range of domains I care about.
+I feel like knowing someone's YouTube feed gives you an enormous deal of information about that person, perhaps even too much 🫥. Here, I share some of my favorite sources:
 
 ## Physiology, Biology, Health...
 
