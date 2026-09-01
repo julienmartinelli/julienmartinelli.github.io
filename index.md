@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <br>
- Since April 2025, I am a __FCAI Research Fellow__ at Aalto University, a 5-year position funded by the [Finnish Center for Artificial Intelligence](https://fcai.fi). I work with groups
+ Since September 2026, I am a __Academy Research Fellow__ at Aalto University, a 4-year independent position funded by the [Research Council of Finland](https://www.aka.fi/en/research-funding/funding-opportunities2/spark-funding/academy-research-fellowship/). I work with groups
 
 - [Computational Systems Biology](https://research.cs.aalto.fi/csb/) (Prof. Harri Lähdesmäki)
 - [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) (Prof. Samuel Kaski)
@@ -31,10 +31,6 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 We are recruiting a PhD student at Aalto University, jointly supervised by Harri Lähdesmäki and me. A short project description is available [here]({{ '/assets/pdfs/phd_call.pdf' | relative_url }}){:target="_blank" rel="noopener"}. The ad is now also up on Aalto University's website [here](https://www.aalto.fi/en/open-positions/doctoral-researcher-in-probabilistic-machine-learning)!
 
 It is also possible to apply to this project as part of the ELLIS Institute Finland PhD call: [see here](https://www.ellisinstitute.fi/postdoc-and-phd-recruit-autumn-2026) for more information! The deadline is set to September 21th.
-
-### Funding news:
-
-I was awarded an [Academy Research Fellowship](https://research.fi/en/results/funding/88760) by the Research Council of Finland, providing four years of support for my independent research as Principal Investigator and for a PhD student position from September 2026 to September 2030.
 
 <!-- ### Upcoming talks and posters: -->
 
