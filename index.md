@@ -30,7 +30,7 @@ Besides, for a few years now, I have been cultivating a passion for indoor bould
 
 ### A new preprint on in-context optimization!
 
-Q-A. Nguyen, X. Zhang, D. Huang,  **J. Martinelli**<sup>°</sup>, S. Kaski. [In-context Batch Black-Box Optimization via Flow Matching](https://arxiv.org/pdf/2610.20138).
+Q-A. Nguyen, X. Zhang, D. Huang,  **J. Martinelli**<sup>°</sup>, S. Kaski<sup>°</sup>. [In-context Batch Black-Box Optimization via Flow Matching](https://arxiv.org/pdf/2610.20138).
 
 ### One paper accepted to Neurips! 
 

@@ -1,6 +1,6 @@
 # Preprints
 
-Q-A. Nguyen, X. Zhang, D. Huang,  **J. Martinelli**<sup>°</sup>, S. Kaski. [In-context Batch Black-Box Optimization via Flow Matching](https://arxiv.org/pdf/2610.20138). *arXiv*, 2026
+Q-A. Nguyen, X. Zhang, D. Huang,  **J. Martinelli**<sup>°</sup>, S. Kaski<sup>°</sup>. [In-context Batch Black-Box Optimization via Flow Matching](https://arxiv.org/pdf/2610.20138). *arXiv*, 2026
 
 **J. Martinelli**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague.
 [Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026
