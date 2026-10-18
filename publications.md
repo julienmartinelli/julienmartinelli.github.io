@@ -1,5 +1,7 @@
 # Preprints
 
+Q-A. Nguyen, X. Zhang, D. Huang,  **J. Martinelli**<sup>°</sup>, S. Kaski. [In-context Batch Black-Box Optimization via Flow Matching](https://arxiv.org/pdf/2610.20138). *arXiv*, 2026
+
 **J. Martinelli**, M. Sinelnikov, H. Lähdesmäki, Q. Clairon, M. Prague.
 [Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes](https://arxiv.org/abs/2605.13088). *arXiv*, 2026
 
@@ -8,8 +10,6 @@ M. Sinaga<sup>°</sup>, **J. Martinelli**<sup>°</sup>, T. Turpeinen, and S. Kas
 **J. Martinelli**, I. Rebai, D. W. Haas, and J. Bertrand. [Joint Bayesian Inference of Genetic Effect Sizes and PK Parameters in Nonlinear Mixed-Effects Models](https://arxiv.org/abs/2604.14364). *arXiv*, 2026
 
 T. A. Vu, **J. Martinelli**, H. Lähdesmäki. [Time-Aware Latent Space Bayesian Optimization](https://arxiv.org/abs/2603.00935). *arXiv*, 2026
-
-<!-- M. Sinaga, **J. Martinelli**, V. Garg, and S. Kaski. [Heteroscedastic Preferential Bayesian Optimization with Informative Noise Distributions](https://arxiv.org/abs/2405.14657). *arXiv*, 2024 -->
 
 **J. Martinelli**, J. Grignard, S. Soliman, A. Ballesta, and F. Fages. [Reactmine: a statistical search algorithm for inferring chemical reactions from time series data](https://arxiv.org/abs/2209.03185). *arXiv*, 2022
 

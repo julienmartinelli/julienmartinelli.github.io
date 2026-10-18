@@ -18,7 +18,7 @@ My interests span:
 - *Biology-Informed Machine Learning*: blending flexible data-driven approaches and mechanistic models within Systems Biology
 
 $\rightarrow$ For more information, you can have a look to this position piece: [Position: Biology is the Challenge Physics-Informed ML needs to Evolve](https://papers.nips.cc/paper_files/paper/2025/hash/af6c0a1b4a4faf1c9900d2771bafd672-Abstract-Position_Paper_Track.html)
-- Bayesian Optimization, in particular recently, in-context learning flavors, see e.g., [our ICLR'26 paper](https://openreview.net/forum?id=odmeUlWta8), [our recent preprint](https://arxiv.org/abs/2605.06187), or [this poster]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"}.
+- Bayesian Optimization, in particular recently, in-context learning flavors, see e.g., [our ICLR'26 paper](https://openreview.net/forum?id=odmeUlWta8), [our recent preprint](https://arxiv.org/pdf/2610.20138), or [this poster]({{ '/assets/pdfs/isba_poster.pdf' | relative_url }}){:target=\"_blank\" rel=\"noopener\"}.
 
 <br>
 I obtained my PhD in February 2022 from Ecole polytechnique, Inria and Institut Curie, under the supervision of [François Fages](http://lifeware.inria.fr/wiki/Fages/HomePage) and [Annabelle Ballesta](http://annabelle.ballesta.fr/). The manuscript can be
@@ -27,6 +27,10 @@ found [here](https://www.theses.fr/2022IPPAX011) and the slides [here]({{ '/asse
 Besides, for a few years now, I have been cultivating a passion for indoor bouldering, with a mild success thus far 🫠
 
 ## News
+
+### A new preprint on in-context optimization!
+
+Q-A. Nguyen, X. Zhang, D. Huang,  **J. Martinelli**<sup>°</sup>, S. Kaski. [In-context Batch Black-Box Optimization via Flow Matching](https://arxiv.org/pdf/2610.20138).
 
 ### One paper accepted to Neurips! 
 
